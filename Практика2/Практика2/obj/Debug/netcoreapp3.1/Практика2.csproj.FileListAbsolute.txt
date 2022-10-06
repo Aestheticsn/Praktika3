@@ -1,0 +1,13 @@
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\bin\Debug\netcoreapp3.1\Практика2.exe
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\bin\Debug\netcoreapp3.1\Практика2.deps.json
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\bin\Debug\netcoreapp3.1\Практика2.runtimeconfig.json
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\bin\Debug\netcoreapp3.1\Практика2.runtimeconfig.dev.json
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\bin\Debug\netcoreapp3.1\Практика2.dll
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\bin\Debug\netcoreapp3.1\Практика2.pdb
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\obj\Debug\netcoreapp3.1\Практика2.csprojAssemblyReference.cache
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\obj\Debug\netcoreapp3.1\Практика2.AssemblyInfoInputs.cache
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\obj\Debug\netcoreapp3.1\Практика2.AssemblyInfo.cs
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\obj\Debug\netcoreapp3.1\Практика2.csproj.CoreCompileInputs.cache
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\obj\Debug\netcoreapp3.1\Практика2.dll
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\obj\Debug\netcoreapp3.1\Практика2.pdb
+C:\Users\komogortsev.vv1631\source\repos\Практика2\Практика2\obj\Debug\netcoreapp3.1\Практика2.genruntimeconfig.cache
