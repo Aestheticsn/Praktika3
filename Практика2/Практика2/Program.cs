@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Практика2
 {
@@ -10,17 +10,19 @@ namespace Практика2
             double b;
             double result;
             char operation;
-            
+
             Console.WriteLine("Введите первое число:");
             a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Введите второе число:");
-            
-            b = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Введите действие:");
-
+            Console.WriteLine("Введите операцию:");
+            Console.WriteLine("Доступные операции: + - * ^ % s-вывод из под корня");
             operation = Convert.ToChar(Console.ReadLine());
-            switch (operation)
+           
+            if(operation != 's')
+            {
+                Console.WriteLine("Введите второе число:");
+            b = Convert.ToDouble(Console.ReadLine());
+                            switch (operation)
             {
                 case '+':
                     result = a + b;
@@ -42,11 +44,19 @@ namespace Практика2
                     Console.WriteLine("возведение в степень " + a + " и " + b + " равно " + result + ".");
                     break;
 
-                case 'a':
-                    result = Math.Pow(a, b);
-                    Console.WriteLine("возведение в степень " + a + " и " + b + " равно " + result + ".");
+                case '%':
+                    result = a % b;
+                    Console.WriteLine("остаток от деления " + a + " и " + b + " равен " + result + ".");
                     break;
             }
+            }
+            else
+            {
+                result = Math.Sqrt(a);
+                Console.WriteLine("Корень от числа " + a  + " равен " + result + ".");
+            }
+            
+
         }
     }
 }
